@@ -1,9 +1,9 @@
 import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
-import MarkdownItPlantuml from 'markdown-it-plantuml';
+import MarkdownItPlantuml from "markdown-it-plantuml";
 
 export default defineUserConfig({
-  base: "/db-course-theme2/",
+  base: "/DBcourse/",
 
   lang: "en-US",
   title: "Система управління відкритими даними",
@@ -11,7 +11,7 @@ export default defineUserConfig({
 
   theme,
 
-  extendsMarkdown: md =>{
+  extendsMarkdown: (md) => {
     md.use(MarkdownItPlantuml);
   },
 
