@@ -7,3 +7,7 @@
 ```
 
 ## RESTfull сервіс для управління даними
+### RESTfull-service для управління даними таблиці Accesses створеної в PostgreSQL. Cтворено за допомогою Flask, Python. 
+```sql 
+<!-- @include: ./RAPI/test.py-->
+```
