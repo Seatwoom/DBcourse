@@ -3,14 +3,14 @@
 Тестування за допомогою Postman
 
 ## GET
-![screen2](./photo/2.png)
+![](./photo/2.jpg)
 
 
 ## POST
-![screen1](./photo/1.png)
+![](./photo/1.jpg)
 
 ## DELETE
-![screen4](./photo/4.png)
+![](./photo/4.jpg)
 
 ## PUT
-![screen3](./photo/3.png)
+![](./photo/3.jpg)
